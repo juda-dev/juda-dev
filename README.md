@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?juda-dev=juda-dev&style=for-the-badge&color=orange" alt="Profile Views"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
 </div>
 
 <h1 align="center">
@@ -75,10 +71,4 @@ private String[] lenguajes = {"Java"};
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandavidvallecilla@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/judadev)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con diferentes personas</b> así que si quieres saludar, <b>¡estaré encantado de conocerte más!</b> 😊</em>
 </div>
