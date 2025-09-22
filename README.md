@@ -15,13 +15,19 @@
 
 ## 🚀 Sobre Mí
 
+<pre>
+<code>
 public class JuDaDev {
-private String nombre = "JuDa DEV";
-private String rol = "Java Developer";
-private String educacion = "Tecnología en Desarrollo de Software";
-private String universidad = "Universidad Católica de Pereira";
-private String ubicacion = "Pereira, Colombia";
-private String[] lenguajes = {"Java"};
+    private String <strong>nombre</strong> = "Juan David Arboleda Vallecilla";
+    private String <strong>rol</strong> = "Java Developer";
+    private String <strong>educacion</strong> = "Tecnología en Desarrollo de Software";
+    private String <strong>universidad</strong> = "Universidad Católica de Pereira";
+    private String <strong>ubicacion</strong> = "Pereira, Colombia";
+    private String[] <strong>lenguajes</strong> = {"Java"};
+}
+</code>
+</pre>
+
 
 ---
 
