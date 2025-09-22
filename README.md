@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Estudiante+de+Tecnología;Apasionado+por+el+Código;Siempre+Aprendiendo!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Siempre+Aprendiendo!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 ---
