@@ -3,7 +3,7 @@
     <img src="https://github.com/juda-dev/juda-dev/blob/main/LogoJuDaDEV.png?raw=true" width="150"/>
   </picture>
   
-  # ¡Hola! Soy Juan David ✌️
+  # ¡Hola! Soy JuDa Dev ✌️
   <picture>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Siempre+Aprendiendo!&font=Fira%20Code&center=true&width=380&height=50&color=f75c7e&vCenter=true&size=20&pause=1000">
     </picture>
