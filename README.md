@@ -13,10 +13,10 @@
 
 - 🎓 Estudiando Tecnología en Desarrollo de Software
 - 🛠️ Técnico en redes eléctricas y comunicaciones
-- 💻 Abierto a colaborar en proyectos, aportando en implementación, optimización y despliegue de servicios
+- 🕹️ Abierto a colaborar en proyectos, aportando en implementación, optimización y despliegue de servicios
 
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
 <picture>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
