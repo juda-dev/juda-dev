@@ -3,7 +3,7 @@
     <img src="https://github.com/juda-dev/juda-dev/blob/main/LogoJuDaDEV.png?raw=true" width="150"/>
   </picture>
   
-  # ¡Qhubo! ✌️
+  # ¡Qhubo!️
   <picture>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=JuDa+Dev&font=Fira%20Code&center=true&width=380&height=50&color=f75c7e&vCenter=true&size=20&pause=1000">
     </picture>
