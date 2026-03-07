@@ -39,7 +39,8 @@
       <p>A full-stack web application replicating the core features and UI of Crunchyroll, built to showcase frontend architecture and media streaming layouts.</p>
       <p>
         <img src="https://img.shields.io/badge/Angular-222222?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-        <img src="https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Java-222222?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/SpringBoot-222222?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
         <img src="https://img.shields.io/badge/MySQL-222222?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
       </p>
       <a href="https://github.com/juda-dev/crunchyroll_clone">
