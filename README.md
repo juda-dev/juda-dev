@@ -15,8 +15,14 @@
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white&labelColor=7B0019" alt="Angular"/></a>&nbsp;
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/MySQL-1565C0?style=flat&logo=mysql&logoColor=white&labelColor=0D2E6F" alt="MySQL"/></a>&nbsp;
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=1B4221" alt="MongoDB"/></a>&nbsp;
-        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=6B0000" alt="Redis"/></a>
-        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=0D3B6E" alt="Docker"/></a>
+        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=6B0000" alt="Redis"/></a>&nbsp;
+        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=0D3B6E" alt="Docker"/></a>&nbsp;
+        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white&labelColor=000000" alt="Apache Kafka"/></a>&nbsp;
+        <a href="#" onclick="return false;">
+          <img 
+          src="https://custom-icon-badges.demolab.com/badge/Debezium-Debezium?style=flat&labelColor=E0E0E0&color=FFFFFF&logo=debezium&logoColor=111111"
+          alt="Debezium"/>
+        </a>
       </p>
     </td>
   </tr>
