@@ -18,6 +18,7 @@
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=6B0000" alt="Redis"/></a>&nbsp;
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=0D3B6E" alt="Docker"/></a>&nbsp;
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white&labelColor=000000" alt="Apache Kafka"/></a>&nbsp;
+        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white&labelColor=1A1A1A" alt="Keycloak"/></a>&nbsp;
         <a href="#" onclick="return false;">
           <img 
           src="https://custom-icon-badges.demolab.com/badge/Debezium-Debezium?style=flat&labelColor=E0E0E0&color=FFFFFF&logo=debezium&logoColor=111111"
