@@ -43,6 +43,29 @@
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td width="45%" valign="top">
+      <h4>Certificadazo</h4>
+      <p>An enterprise-grade, microservices-based platform for AI-assisted certificate generation, built to automate certificate creation and streamline associated data management.</p>
+      <p>
+        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></a>
+        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/SpringBoot-222222?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/></a>
+        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/SpringAI-222222?style=flat-square&logo=spring&logoColor=white" alt="Spring AI"/></a>
+        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Keycloak-222222?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak"/></a>
+        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/MySQL-222222?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
+        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Kafka-222222?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/></a>
+        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Docker-222222?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
+      </p>
+      <a href="https://github.com/juda-dev/certificadazo">
+        <img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
+      </a>
+    </td>
+    <td width="55%" align="center" valign="middle">
+      <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/UI-IN_PROGRESS-FFB300?style=for-the-badge&logo=github&logoColor=black" width="31%" alt="In progress"/></a>
+      <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/🚧_COMING_SOON-222222?style=for-the-badge" width="31%" alt="Coming soon"/></a>
+      <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/WORK_IN_PROGRESS-FFB300?style=for-the-badge&logo=github&logoColor=black" width="31%" alt="Work in progress"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%" valign="top">
       <h4>Crunchyroll Clone</h4>
       <p>A full-stack web application replicating the core features and UI of Crunchyroll, built to showcase frontend architecture and media streaming layouts.</p>
       <p>
