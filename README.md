@@ -56,7 +56,7 @@
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Docker-222222?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
       </p>
       <a href="https://github.com/juda-dev/certificadazo">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
+        <img src="https://github.com/juda-dev/juda-dev/blob/main/badges/view-project-badge.svg?raw=true" alt="View Project"/>
       </a>
     </td>
     <td width="55%" align="center" valign="middle">
@@ -76,7 +76,7 @@
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/MySQL-222222?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/></a>
       </p>
       <a href="https://github.com/juda-dev/crunchyroll_clone">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/>
+        <img src="https://github.com/juda-dev/juda-dev/blob/main/badges/view-project-badge.svg?raw=true" alt="View Project"/>
       </a>
     </td>
     <td width="55%" align="center" valign="middle">
