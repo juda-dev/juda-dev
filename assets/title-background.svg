@@ -9,8 +9,8 @@
       <feGaussianBlur stdDeviation="3" result="blur"/>
     </filter>
   </defs>
-  <rect width="798" height="58" x="1" y="1" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
-  <text x="400" y="34" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="18" font-weight="600" fill="#24292f" letter-spacing="4">BACKGROUND</text>
+  <rect width="800" height="60" rx="8" fill="#ffffff"/>
+  <text x="400" y="38" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="24" font-weight="700" fill="#24292f" letter-spacing="4">BACKGROUND</text>
   <rect x="250" y="48" width="300" height="1" fill="url(#lineGrad)"/>
   <rect x="250" y="47" width="300" height="3" fill="#7F52FF" opacity="0.3" filter="url(#glow)"/>
 </svg>

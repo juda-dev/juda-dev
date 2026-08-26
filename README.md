@@ -125,15 +125,3 @@
     </td>
   </tr>
 </table>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        GITHUB STATS                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img alt="GitHub Stats" src="./assets/title-stats.svg" width="50%">
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=juda-dev&background=ffffff&border=d0d7de&ring=7F52FF&fire=ED8B00&currStreakLabel=24292f&sideLabels=57606a&dates=57606a&currStreakNum=24292f&sideNums=24292f&border_radius=10" width="70%">
-</p>

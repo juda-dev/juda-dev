@@ -5,7 +5,7 @@
     </filter>
   </defs>
 
-  <rect width="798" height="238" x="1" y="1" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <rect width="800" height="240" rx="8" fill="#ffffff"/>
   
   <style>
     .title { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 600; fill: #24292f; letter-spacing: 0.5px; }
