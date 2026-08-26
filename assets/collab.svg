@@ -1,17 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" fill="none">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="120" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#f6f8fa"/>
-      <stop offset="1" stop-color="#ffffff"/>
-    </linearGradient>
     <radialGradient id="glow" cx="400" cy="60" r="400" gradientUnits="userSpaceOnUse">
       <stop stop-color="#7F52FF" stop-opacity="0.08"/>
       <stop offset="1" stop-color="#7F52FF" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect width="800" height="120" rx="8" fill="url(#bg)" stroke="#d0d7de" stroke-width="1"/>
-  <rect width="800" height="120" rx="8" fill="url(#glow)"/>
-  
+  <rect width="798" height="118" x="1" y="1" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <rect width="798" height="118" x="1" y="1" rx="8" fill="url(#glow)"/>
   <text x="400" y="45" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="18" font-weight="700" fill="#24292f" letter-spacing="1">🚀 OPEN TO COLLABORATIONS</text>
   <text x="400" y="75" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" font-weight="400" fill="#57606a">I am actively available to collaborate on projects, bringing value in implementation,</text>
   <text x="400" y="95" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="14" font-weight="400" fill="#57606a">optimization, and service deployment. Let's build something great together.</text>

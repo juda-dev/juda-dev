@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" fill="none">
+  <defs>
+    <filter id="glowDot" x="45" y="30" width="30" height="30" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+    </filter>
+  </defs>
+
+  <rect width="798" height="238" x="1" y="1" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  
+  <style>
+    .title { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 600; fill: #24292f; letter-spacing: 0.5px; }
+    .subtitle { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 13px; font-weight: 400; fill: #57606a; }
+    .line { stroke: #d0d7de; stroke-width: 2; }
+    .dot-active { fill: #7F52FF; }
+    .dot-glow { fill: #7F52FF; opacity: 0.5; filter: url(#glowDot); }
+    .dot-past { fill: #ffffff; stroke: #7F52FF; stroke-width: 2; }
+  </style>
+
+  <!-- Timeline Line -->
+  <line class="line" x1="60" y1="55" x2="60" y2="200" />
+
+  <!-- Entry 1 -->
+  <circle class="dot-glow" cx="60" cy="45" r="8" />
+  <circle class="dot-active" cx="60" cy="45" r="5" />
+  <text class="title" x="90" y="42">Systems Engineering</text>
+  <text class="subtitle" x="90" y="62">Currently Studying</text>
+
+  <!-- Entry 2 -->
+  <circle class="dot-past" cx="60" cy="115" r="5" />
+  <text class="title" x="90" y="112">Technologist in Software Development</text>
+  <text class="subtitle" x="90" y="132">Graduated</text>
+
+  <!-- Entry 3 -->
+  <circle class="dot-past" cx="60" cy="185" r="5" />
+  <text class="title" x="90" y="182">Technician in Electrical Networks and Communications</text>
+  <text class="subtitle" x="90" y="202">Graduated</text>
+</svg>

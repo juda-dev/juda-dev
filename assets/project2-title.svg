@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 48" fill="none">
+  <rect width="398" height="46" x="1" y="1" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <rect x="1" y="1" width="6" height="46" rx="3" fill="#7F52FF"/>
+  <text x="20" y="29" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="16" font-weight="700" fill="#24292f" letter-spacing="1">CRUNCHYROLL CLONE</text>
+</svg>
