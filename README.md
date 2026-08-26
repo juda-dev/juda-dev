@@ -10,6 +10,7 @@
       <p>Software Developer</p>
       <h3>💻 Tech Stack</h3>
       <p>
+        <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=4A2B8C" alt="Kotlin"/></a>&nbsp;
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Java-E76F00?style=flat&logo=openjdk&logoColor=white&labelColor=7A3800" alt="Java"/></a>&nbsp;
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white&labelColor=1B5E20" alt="Spring Boot"/></a>&nbsp;
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white&labelColor=7B0019" alt="Angular"/></a>&nbsp;
@@ -19,21 +20,16 @@
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=0D3B6E" alt="Docker"/></a>&nbsp;
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white&labelColor=000000" alt="Apache Kafka"/></a>&nbsp;
         <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white&labelColor=1A1A1A" alt="Keycloak"/></a>&nbsp;
-        <a href="#" onclick="return false;">
-          <img 
-          src="https://custom-icon-badges.demolab.com/badge/Debezium-Debezium?style=flat&labelColor=E0E0E0&color=FFFFFF&logo=debezium&logoColor=111111"
-          alt="Debezium"/>
-        </a>
       </p>
     </td>
   </tr>
 </table>
 <br>
 
-### 🎓 Background
-<!-- - **Currently Studying:** Technology in Software Development -->
-- **Graduated:** Technician in Electrical Networks and Communications
-- **Graduated:** Technologist in Software Development
+### 📜 Background
+- 📚 **Currently Studying:** Systems Engineering
+- 🎓 **Graduated:** Technologist in Software Development
+- 🎓 **Graduated:** Technician in Electrical Networks and Communications
 <br>
 
 > [!IMPORTANT]
