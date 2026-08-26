@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 190" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 140" fill="none">
   <defs>
-    <radialGradient id="gl" cx="425" cy="95" r="450" gradientUnits="userSpaceOnUse">
+    <radialGradient id="gl" cx="425" cy="70" r="450" gradientUnits="userSpaceOnUse">
       <stop stop-color="#7F52FF" stop-opacity="0.08"/>
       <stop offset="1" stop-color="#7F52FF" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="al" x1="175" y1="0" x2="675" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#7F52FF" stop-opacity="0"/>
-      <stop offset=".3" stop-color="#7F52FF" stop-opacity=".5"/>
-      <stop offset=".5" stop-color="#667eea" stop-opacity=".65"/>
-      <stop offset=".7" stop-color="#7F52FF" stop-opacity=".5"/>
-      <stop offset="1" stop-color="#7F52FF" stop-opacity="0"/>
+      <stop stop-color="#E31837" stop-opacity="0"/>
+      <stop offset=".3" stop-color="#E31837" stop-opacity=".7"/>
+      <stop offset=".5" stop-color="#FFD700" stop-opacity=".8"/>
+      <stop offset=".7" stop-color="#E31837" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#E31837" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <style>
@@ -23,12 +23,12 @@
     .d2{animation-delay:.9s}
     .d3{animation-delay:1.1s}
   </style>
-  <rect width="848" height="188" x="1" y="1" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
-  <rect width="850" height="190" rx="10" fill="url(#gl)"/>
-  <text class="name" x="425" y="78" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="40" font-weight="700" fill="#24292f" letter-spacing="3">JuDa Dev</text>
-  <text class="role" x="425" y="116" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="15" font-weight="400" fill="#57606a" letter-spacing="1.8">Software Developer</text>
-  <rect class="accent" x="175" y="142" width="500" height="1.5" rx="1" fill="url(#al)"/>
-  <circle class="dot d1" cx="393" cy="165" r="2.5" fill="#ED8B00" opacity=".7"/>
-  <circle class="dot d2" cx="425" cy="165" r="2.5" fill="#7F52FF" opacity=".7"/>
-  <circle class="dot d3" cx="457" cy="165" r="2.5" fill="#6DB33F" opacity=".7"/>
+  <rect width="848" height="138" x="1" y="1" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <rect width="850" height="140" rx="10" fill="url(#gl)"/>
+  <text class="name" x="425" y="54" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="40" font-weight="700" fill="#24292f" letter-spacing="3">JuDa Dev</text>
+  <text class="role" x="425" y="86" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="15" font-weight="400" fill="#57606a" letter-spacing="1.8">Software Developer</text>
+  <rect class="accent" x="175" y="108" width="500" height="2" rx="1" fill="url(#al)"/>
+  <circle class="dot d1" cx="393" cy="125" r="2.5" fill="#E31837" opacity=".8"/>
+  <circle class="dot d2" cx="425" cy="125" r="3" fill="#FFD700" opacity=".9"/>
+  <circle class="dot d3" cx="457" cy="125" r="2.5" fill="#E31837" opacity=".8"/>
 </svg>
