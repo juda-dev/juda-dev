@@ -23,7 +23,7 @@
     .d2{animation-delay:.9s}
     .d3{animation-delay:1.1s}
   </style>
-  <rect width="850" height="190" rx="10" fill="#ffffff"/>
+  <rect width="848" height="188" x="1" y="1" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
   <rect width="850" height="190" rx="10" fill="url(#gl)"/>
   <text class="name" x="425" y="78" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="40" font-weight="700" fill="#24292f" letter-spacing="3">JuDa Dev</text>
   <text class="role" x="425" y="116" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="15" font-weight="400" fill="#57606a" letter-spacing="1.8">Software Developer</text>
