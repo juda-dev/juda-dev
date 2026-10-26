@@ -1,37 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" fill="none">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="240" viewBox="0 0 800 240">
   <defs>
-    <filter id="glowDot" x="45" y="30" width="30" height="30" filterUnits="userSpaceOnUse">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-    </filter>
+    <filter id="filter-1" filterUnits="userSpaceOnUse" x="41" y="26" width="38" height="38" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="3"/></filter>
   </defs>
-
-  <rect width="800" height="240" rx="8" fill="#ffffff"/>
-  
-  <style>
-    .title { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 15px; font-weight: 600; fill: #24292f; letter-spacing: 0.5px; }
-    .subtitle { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 13px; font-weight: 400; fill: #57606a; }
-    .line { stroke: #d0d7de; stroke-width: 2; }
-    .dot-active { fill: #7F52FF; }
-    .dot-glow { fill: #7F52FF; opacity: 0.5; filter: url(#glowDot); }
-    .dot-past { fill: #ffffff; stroke: #7F52FF; stroke-width: 2; }
-  </style>
-
-  <!-- Timeline Line -->
-  <line class="line" x1="60" y1="55" x2="60" y2="200" />
-
-  <!-- Entry 1 -->
-  <circle class="dot-glow" cx="60" cy="45" r="8" />
-  <circle class="dot-active" cx="60" cy="45" r="5" />
-  <text class="title" x="90" y="42">Systems Engineering</text>
-  <text class="subtitle" x="90" y="62">Currently Studying</text>
-
-  <!-- Entry 2 -->
-  <circle class="dot-past" cx="60" cy="115" r="5" />
-  <text class="title" x="90" y="112">Technologist in Software Development</text>
-  <text class="subtitle" x="90" y="132">Graduated</text>
-
-  <!-- Entry 3 -->
-  <circle class="dot-past" cx="60" cy="185" r="5" />
-  <text class="title" x="90" y="182">Technician in Electrical Networks and Communications</text>
-  <text class="subtitle" x="90" y="202">Graduated</text>
+  <title>education.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M8 0 L792 0 C796.418 0 800 3.582 800 8 L800 232 C800 236.418 796.418 240 792 240 L8 240 C3.582 240 0 236.418 0 232 L0 8 C0 3.582 3.582 0 8 0 Z" fill="#ffffff"/>
+    <path d="M60 55 L60 200" fill="none" stroke="#d0d7de" stroke-width="2"/>
+    <g filter="url(#filter-1)">
+      <path d="M68 45 C68 49.418 64.418 53 60 53 C55.582 53 52 49.418 52 45 C52 40.582 55.582 37 60 37 C64.418 37 68 40.582 68 45 Z" fill="#7f52ff" opacity="0.5"/>
+    </g>
+    <path d="M65 45 C65 47.761 62.761 50 60 50 C57.239 50 55 47.761 55 45 C55 42.239 57.239 40 60 40 C62.761 40 65 42.239 65 45 Z" fill="#7f52ff"/>
+    <text transform="matrix(1 0 0 1 90 42)" x="0" y="0" xml:space="preserve" font-family="&apos;Segoe UI&apos;, sans-serif" font-size="15" font-weight="600" fill="#24292f" letter-spacing="0.5"><tspan x="0" y="0">Systems and Telecommunications Engineering</tspan></text>
+    <text transform="matrix(1 0 0 1 90 62)" x="0" y="0" xml:space="preserve" font-family="&apos;Segoe UI&apos;, sans-serif" font-size="13" fill="#57606a"><tspan x="0" y="0">Currently Studying</tspan></text>
+    <path d="M65 115 C65 117.761 62.761 120 60 120 C57.239 120 55 117.761 55 115 C55 112.239 57.239 110 60 110 C62.761 110 65 112.239 65 115 Z" fill="#ffffff" stroke="#7f52ff" stroke-width="2"/>
+    <text transform="matrix(1 0 0 1 90 112)" x="0" y="0" xml:space="preserve" font-family="&apos;Segoe UI&apos;, sans-serif" font-size="15" font-weight="600" fill="#24292f" letter-spacing="0.5"><tspan x="0" y="0">Technologist in Software Development</tspan></text>
+    <text transform="matrix(1 0 0 1 90 132)" x="0" y="0" xml:space="preserve" font-family="&apos;Segoe UI&apos;, sans-serif" font-size="13" fill="#57606a"><tspan x="0" y="0">Graduated</tspan></text>
+    <path d="M65 185 C65 187.761 62.761 190 60 190 C57.239 190 55 187.761 55 185 C55 182.239 57.239 180 60 180 C62.761 180 65 182.239 65 185 Z" fill="#ffffff" stroke="#7f52ff" stroke-width="2"/>
+    <text transform="matrix(1 0 0 1 90 182)" x="0" y="0" xml:space="preserve" font-family="&apos;Segoe UI&apos;, sans-serif" font-size="15" font-weight="600" fill="#24292f" letter-spacing="0.5"><tspan x="0" y="0">Technician in Electrical Networks and Communications</tspan></text>
+    <text transform="matrix(1 0 0 1 90 202)" x="0" y="0" xml:space="preserve" font-family="&apos;Segoe UI&apos;, sans-serif" font-size="13" fill="#57606a"><tspan x="0" y="0">Graduated</tspan></text>
+  </g>
 </svg>
